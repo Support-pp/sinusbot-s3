@@ -25,7 +25,7 @@
   "homepage": "https://github.com/Support-pp/sinusbot-s3#readme",
   "dependencies": {
     "@support-pp/sinusbot-ts": "^1.0.7",
-    "@types/inquirer": "^7.3.1",
+    "@types/inquirer": "^7.3.2",
     "aws-sdk": "^2.852.0",
     "dotenv": "^8.2.0",
     "inquirer": "^8.0.0"
